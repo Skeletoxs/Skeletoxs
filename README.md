@@ -1,6 +1,6 @@
 ### Hola a todos 👋
 
-**Soy Abraham Zambrano y soy un programador principiante enfocado en aprender tecnologias para ser desarrollador  _Full_Stack_**
+**Soy Abraham Zambrano, un programador principiante enfocado en aprender tecnologias para ser desarrollador  _Full_Stack_**
 
 **Tengo conocimientos para desarrollo de páginas web con tecnologías de HTML, CSS, JavaScript, Asp.net y Bootstrap, ademas de poseer conocimientos de base de datos MySQL y SQL Server.**
 
